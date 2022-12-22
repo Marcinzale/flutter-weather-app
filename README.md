@@ -1,15 +1,5 @@
-A new Flutter project.
+Flutter mobile Weather Web application showing the weather in the selected city. It uses API from Openweather. It shows the current temperature, feels like temperature, atmospheric pressure. The application also shows an weather icon corresponding to the weather in the selected city. Application made with Flutter, runs on Android and iOS.
 
-## Getting Started
+![Screenshot_20221211-150510](https://user-images.githubusercontent.com/94755972/209189762-65a6d5a1-07fd-4680-b46a-06cc03d5b93c.jpg)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter-weather-app
+![Screenshot_20221211-150109](https://user-images.githubusercontent.com/94755972/209189786-b8cdfefe-2f8e-4d60-9748-8c2aed37de68.jpg)
